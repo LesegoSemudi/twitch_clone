@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
-import 'package:twitch_app/pages/browse_page.dart';
-import 'package:twitch_app/pages/discover_page.dart';
-import 'package:twitch_app/pages/following_page.dart';
+import 'package:twitch_app/Screens/following_screens.dart';
+import 'package:twitch_app/Screens/discover_screens.dart';
+import 'package:twitch_app/Screens/browse_screens.dart';
 import 'package:twitch_app/theme/colors.dart';
 
 class RootApp extends StatefulWidget {
